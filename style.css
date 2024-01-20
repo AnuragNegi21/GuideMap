@@ -1,0 +1,87 @@
+.subject_name {
+  text-align: justify;
+}
+
+
+.section_heading {
+  margin-top: -10px;
+  text-align: center;
+
+}
+
+.btn_card {
+  color: black;
+
+}
+
+.about_heading {
+  font-size: 50px;
+}
+
+.about_text {
+  font-size: 18px;
+}
+
+.footer {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.643);
+  background: linear-gradient(90deg, rgb(226, 238, 244) 0%, rgba(255, 255, 255, 0.74) 100%);
+
+}
+
+.accordion_card {
+  background-color: rgb(19, 5, 16);
+}
+
+.card_services {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  align-items: center;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.402);
+  border: none;
+}
+
+
+.text {
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  text-decoration: none;
+  font-size: larger;
+}
+
+
+
+a:hover {
+  color: rgb(247 183 207);
+}
+
+
+.list-group-item {
+  background-color: #ffffff00;
+}
+
+.card {
+  border-radius: 1rem;
+  border: 1.5px solid rgb(255, 255, 255);
+  background-color: #ffffff21;
+  align-items: center;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.402);
+}
+
+
+
+
+.container_form {
+  border-radius: 1rem;
+  padding: 5rem;
+  border: 1.5px solid rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.402);
+}
+
+
+    
+.hero_text{
+  font-size: 80px;
+  color: var(--bs-btn-bg);
+  text-shadow: 0px 1px 5px var(--bs-border-color-translucent);
+    }
